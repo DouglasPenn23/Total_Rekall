@@ -7,7 +7,7 @@ Step 1: Define Requirements and Features
 
 Create a user flow and wireframes to plan the app's interface and navigation.
 
-1a. Message Aggregation
+1a. Message Aggregation  
 The app should connect with various messaging platforms (SMS, iMessage, WhatsApp, etc.) and gather all the conversations you haven't responded to.
 1b.  Reminder System
 The app should set reminders for unread messages based on the user’s preferred frequency.
